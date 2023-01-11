@@ -11,7 +11,7 @@
     "faker": "^4.1.0",
     "helmet": "^3.18.0",
     "jwt-decode": "^2.2.0",
-    "knex": "^0.18.1"
+    "knex": "^2.4.0"
   },
   "devDependencies": {
     "cross-env": "^5.2.0",
